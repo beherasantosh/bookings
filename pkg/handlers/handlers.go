@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/beherasantosh/bookings/app/pkg/config"
-	"github.com/beherasantosh/bookings/app/pkg/models"
-	"github.com/beherasantosh/bookings/app/pkg/render"
+	"github.com/beherasantosh/bookings/pkg/config"
+	"github.com/beherasantosh/bookings/pkg/models"
+	"github.com/beherasantosh/bookings/pkg/render"
 )
 
 var Repo *Repository
