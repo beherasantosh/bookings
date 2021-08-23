@@ -1,10 +1,9 @@
-module git.com/beherasantosh/bookings
+module github.com/beherasantosh/bookings
 
 go 1.17
 
 require (
 	github.com/alexedwards/scs/v2 v2.4.0 // indirect
-	github.com/beherasantosh/bookings v0.0.0-20210821125335-23ff4e3aa433 // indirect
 	github.com/go-chi/chi/v5 v5.0.3 // indirect
 	github.com/justinas/nosurf v1.1.1 // indirect
 )
